@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.margin * {
+    margin: 30px;
+}
+.a-p-j{
+    padding-top: 50px;
+}
+.bg {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-width: 16px;
+    border-color: #1D1E4C;
+    width: 750px;
+    height: 1250px;
+    left: 12px;
+    top: 13px;
+    background-color: #E5E5FD;
+    font-family: 'Inter', sans-serif;
+
+}
+.tribute {
+    font: Inter;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 20px;
+    color: #000000;
+}
+.list{
+    font-size: 0px;
+}
+.list li{
+    font-size: 14px;
+}
+.link{
+    float: left;
+}
